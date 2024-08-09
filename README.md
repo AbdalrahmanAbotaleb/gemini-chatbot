@@ -11,4 +11,3 @@ Sample of the application:
 <img src=".\assets\demopictures\pic2.png" width="360" height="700"/>
 </p>
 
-<b>Followed Tutorial: https://www.youtube.com/watch?v=PoZ9iRL16As</b>
