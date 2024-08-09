@@ -9,5 +9,6 @@ Sample of the application:
 <p float="left">
 <img src=".\assets\demopictures\pic3.png" width="360" height="700"/>
 <img src=".\assets\demopictures\pic2.png" width="360" height="700"/>
+<img src=".\assets\demopictures\pic1.png" width="360" height="700"/>
 </p>
 
